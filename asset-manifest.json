@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tagsoft-test-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/tagsoft-test-app/static/js/main.56a4ab5f.chunk.js",
+    "main.js.map": "/tagsoft-test-app/static/js/main.56a4ab5f.chunk.js.map",
+    "runtime-main.js": "/tagsoft-test-app/static/js/runtime-main.19c1c3d0.js",
+    "runtime-main.js.map": "/tagsoft-test-app/static/js/runtime-main.19c1c3d0.js.map",
+    "static/css/2.509cb026.chunk.css": "/tagsoft-test-app/static/css/2.509cb026.chunk.css",
+    "static/js/2.46bb8179.chunk.js": "/tagsoft-test-app/static/js/2.46bb8179.chunk.js",
+    "static/js/2.46bb8179.chunk.js.map": "/tagsoft-test-app/static/js/2.46bb8179.chunk.js.map",
+    "index.html": "/tagsoft-test-app/index.html",
+    "precache-manifest.d91b48b4122a8d5f897d7f3895132c63.js": "/tagsoft-test-app/precache-manifest.d91b48b4122a8d5f897d7f3895132c63.js",
+    "service-worker.js": "/tagsoft-test-app/service-worker.js",
+    "static/css/2.509cb026.chunk.css.map": "/tagsoft-test-app/static/css/2.509cb026.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/tagsoft-test-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.46bb8179.chunk.js.LICENSE": "/tagsoft-test-app/static/js/2.46bb8179.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19c1c3d0.js",
+    "static/css/2.509cb026.chunk.css",
+    "static/js/2.46bb8179.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.56a4ab5f.chunk.js"
+  ]
+}
